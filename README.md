@@ -41,6 +41,4 @@ The system manages traffic signals at a four-way intersection with programmable 
   - `S0`: North-South Green, West-East Red.  
   - `S1`: All Yellow (3s).  
   - `S2`: West-East Green, North-South Red.  
-  - `S3`: All Yellow (3s).  
-
----
+  - `S3`: All Yellow (3s).
